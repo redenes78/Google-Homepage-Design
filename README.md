@@ -1,0 +1,3 @@
+# Google 1998 proje
+
+![alt text](https://web.archive.org/web/19990504112211im_/http://www.google.com/google.jpg)
